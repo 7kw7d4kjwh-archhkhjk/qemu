@@ -2,7 +2,7 @@
   "name": "Xubuntu",
   "service": "qemu",
   "containerEnv": {
-    "BOOT": "xubuntu"
+    "BOOT": "zorin"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
