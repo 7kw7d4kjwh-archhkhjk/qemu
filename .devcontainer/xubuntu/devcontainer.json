@@ -1,5 +1,5 @@
 {
-  "name": "Xubuntu",
+  "name": "Zorin OS",
   "service": "qemu",
   "containerEnv": {
     "BOOT": "zorin"
